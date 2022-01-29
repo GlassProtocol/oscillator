@@ -4,3 +4,6 @@
 [submodule "/Users/samsends/code/glass/lbp-mint/lib/openzeppelin-contracts"]
 	path = /Users/samsends/code/glass/lbp-mint/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
+[submodule "/Users/samsends/code/glass/lbp-mint/lib/solmate"]
+	path = /Users/samsends/code/glass/lbp-mint/lib/solmate
+	url = https://github.com/rari-capital/solmate
