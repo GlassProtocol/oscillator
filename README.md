@@ -1,1 +1,1 @@
-# safemint
+# LBP Minting
