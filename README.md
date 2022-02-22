@@ -1,4 +1,4 @@
-# LBP ERC721
+# Oscillator ERC721
 
 
 TODO

@@ -3,11 +3,11 @@ pragma solidity >=0.8.0;
 
 import { ERC721 } from "@solmate/tokens/ERC721.sol"; // Solmate: ERC721
 
-/// @title LBPERC721
+/// @title Oscillator 
 /// @notice ERC721 with LBP-like price discovery
 /// @author Sam Sends <sam@glass.xyz>
 /// @dev Solmate ERC721 includes unused _burn logic that can be removed to optimize deployment cost
-contract LBPERC721 is ERC721 {
+contract Oscillator is ERC721 {
 
     /*///////////////////////////////////////////////////////////////
                                EVENTS
